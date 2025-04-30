@@ -1,0 +1,17 @@
+name: PROFESSEUR-XD
+services:
+  - name: PROFESSEUR-XD
+    type: web
+    ports:
+      - 5000
+    routes:
+      - path: "/"
+    build:
+      type: docker
+      dockerfile: ./Dockerfile
+    regions:
+      - fra
+      - sin
+
+
+      
