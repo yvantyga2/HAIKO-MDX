@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/Professeur-xd">
-    <img title="Author" src="https://img.shields.io/badge/Author-INCONNU%20BOY-ff004d?style=for-the-badge&logo=github&logoColor=white" />
+    <img title="Author" src="https://img.shields.io/badge/Author-PROFESSEUR%20HACK-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029VbADTgbGzzKPWZ5MC52T">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
