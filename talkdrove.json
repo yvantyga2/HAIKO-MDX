@@ -1,8 +1,8 @@
 
 {
-    "bot-name": "PROFESSEUR-XD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot BY PROFESSEUR HACK TECH",
-    "logo": "https://files.catbox.moe/umpjhb.jpg",
+    "bot-name": "HAIKO-MDX",
+    "description": "Whiskey Sockets Baileys Whatsapp bot BY MYSTIC HAIKO",
+    "logo": "https://files.catbox.moe/pcb7ya.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://professeur-xd-session-by-professeur-hack.onrender.com",
     "owner-verification": "princeyvenssindraguela@gmail.com",
@@ -25,7 +25,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "PROFESSEUR HACK"
+      "value": "MYSTIC HAIKO"
   
     },
     
@@ -77,14 +77,14 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*PROFESSEUR-XD BOT VIEWED YOUR STATUS *"
+      "value": "*HAIKO-MDX BOT VIEWED YOUR STATUS *"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "PROFESSEUR HACK"
+      "value": "MYSTIC HAIKO"
 }, 
 
     "OWNER_NUMBER": {
@@ -97,7 +97,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "PROFESSEUR-XD"
+      "value": "HAIKO-MDX"
 
       }, 
 
@@ -117,7 +117,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY  PROFESSEUR HACK*"
+      "value": "*© POWERED BY  MYSTIC HAIKO*"
     },
 
       "DELETE_LINKS": {
