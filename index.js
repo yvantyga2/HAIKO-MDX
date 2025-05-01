@@ -89,13 +89,13 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 PROFESSEUR-XD using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`🤖 HAIKO-MDX using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["PROFESSEUR-XD", "safari", "3.3"],
+            browser: ["HAIKO-MDX", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
