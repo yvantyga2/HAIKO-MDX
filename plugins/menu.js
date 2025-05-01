@@ -85,15 +85,15 @@ const menu = async (m, Matrix) => {
 
 ╭━━〔 *Menu List* 〕━━┈⊷
 ┃◈╭─────────────·๏
-┃◈┃• 1. Download Menu      
-┃◈┃• 2. Converter Menu        
-┃◈┃• 3. AI Menu  
-┃◈┃• 4. Tools Menu  
-┃◈┃• 5. Group Menu 
-┃◈┃• 6. Search Menu   
-┃◈┃• 7. Main Menu
-┃◈┃• 8. Owner Menu 
-┃◈┃• 9. Stalk Menu     
+┃◈┃• ❶. Download Menu      
+┃◈┃• ❷. Converter Menu        
+┃◈┃• ❸. AI Menu  
+┃◈┃• ❹. Tools Menu  
+┃◈┃• ❺. Group Menu 
+┃◈┃• ❻. Search Menu   
+┃◈┃• ❼. Main Menu
+┃◈┃• ❽. Owner Menu 
+┃◈┃• ❾. Stalk Menu     
 ┃◈┃• update
 ┃◈└───────────┈⊷
 ╰──────────────┈⊷
@@ -107,10 +107,10 @@ const menu = async (m, Matrix) => {
           return Buffer.from(response.data, 'binary');
         } catch (error) {
           console.error('Error fetching menu image from URL, falling back to local image:', error);
-          return fs.readFileSync('https://files.catbox.moe/umpjhb.jpg');
+          return fs.readFileSync('https://files.catbox.moe/pcb7ya.jpg');
         }
       } else {
-        return fs.readFileSync('https://files.catbox.moe/umpjhb.jpg');
+        return fs.readFileSync('https://files.catbox.moe/pcb7ya.jpg');
       }
     };
 
@@ -125,7 +125,7 @@ const menu = async (m, Matrix) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363397722863547@newsletter',
-          newsletterName: "PROFESSEUR-HACK",
+          newsletterName: "MYSTIC HAIKO",
           serverMessageId: 143
         }
       }
@@ -347,7 +347,7 @@ ${menuResponse}
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363397722863547@newsletter',
-            newsletterName: "PROFESSEUR-HACK",
+            newsletterName: "MYSTIC HAIKO",
             serverMessageId: 143
           }
         }
