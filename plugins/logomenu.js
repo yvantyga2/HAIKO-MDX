@@ -57,7 +57,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: "PROFESSEUR-XD LOGO MENU⚡₊",
+                        newsletterName: "HAIKO-MDX LOGO MENU🎗️₊",
                         serverMessageId: 143
                     }
                 }
