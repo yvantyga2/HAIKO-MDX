@@ -69,33 +69,33 @@ const menu = async (m, Matrix) => {
   if (validCommands.includes(cmd)) {
     const mainMenu = `
 ╭━━━〔 *${config.BOT_NAME}* 〕━━━┈⊷
-┃★╭──────────────
-┃★│ Owner : *${config.OWNER_NAME}*
-┃★│ User : *${m.pushName}*
-┃★│ Baileys : *Multi Device*
-┃★│ Type : *NodeJs*
-┃★│ Mode : *${mode}*
-┃★│ Platform : *${os.platform()}*
-┃★│ Prefix : [${prefix}]
-┃★│ Version : *3.1.0*
-┃★╰──────────────
+┃✪╭──────────────
+┃✪│ Owner : *${config.OWNER_NAME}*
+┃✪│ User : *${m.pushName}*
+┃✪│ Baileys : *Multi Device*
+┃✪│ Type : *NodeJs*
+┃✪│ Mode : *${mode}*
+┃✪│ Platform : *${os.platform()}*
+┃✪│ Prefix : [${prefix}]
+┃✪│ Version : *3.1.0*
+┃✪╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 
 > ${pushwish} *${m.pushName}*!
 
 ╭━━〔 *Menu List* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• ❶. Download Menu      
-┃◈┃• ❷. Converter Menu        
-┃◈┃• ❸. AI Menu  
-┃◈┃• ❹. Tools Menu  
-┃◈┃• ❺. Group Menu 
-┃◈┃• ❻. Search Menu   
-┃◈┃• ❼. Main Menu
-┃◈┃• ❽. Owner Menu 
-┃◈┃• ❾. Stalk Menu     
-┃◈┃• update
-┃◈└───────────┈⊷
+┃✮╭─────────────·๏
+┃✮┃• ❶. Download Menu      
+┃✮┃• ❷. Converter Menu        
+┃✮┃• ❸. AI Menu  
+┃✮┃• ❹. Tools Menu  
+┃✮┃• ❺. Group Menu 
+┃✮┃• ❻. Search Menu   
+┃✮┃• ❼. Main Menu
+┃✮┃• ❽. Owner Menu 
+┃✮┃• ❾. Stalk Menu     
+┃✮┃• update
+┃✮└───────────┈⊷
 ╰──────────────┈⊷
 > *Reply with the number (1-9)*`;
 
@@ -135,7 +135,7 @@ const menu = async (m, Matrix) => {
 
     // Send audio after sending the menu
     await Matrix.sendMessage(m.from, {
-      audio: { url: 'https://files.catbox.moe/rvfjap.mp3' },
+      audio: { url: 'https://files.catbox.moe/zvajiw.mp3' },
       mimetype: 'audio/mp4',
       ptt: true
     }, { quoted: m });
@@ -156,23 +156,23 @@ const menu = async (m, Matrix) => {
           menuTitle = "Download Menu";
           menuResponse = `
 ╭━━〔 *Download Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• apk
-┃◈┃• facebook
-┃◈┃• mediafire
-┃◈┃• pinterestdl
-┃◈┃• gitclone
-┃◈┃• gdrive
-┃◈┃• insta
-┃◈┃• ytmp3
-┃◈┃• ytmp4
-┃◈┃• play
-┃◈┃• song
-┃◈┃• video
-┃◈┃• ytmp3doc
-┃◈┃• ytmp4doc
-┃◈┃• tiktok
-┃◈└───────────┈⊷
+┃✯╭─────────────·๏
+┃✮┃• apk
+┃✮┃• facebook
+┃✮┃• mediafire
+┃✮┃• pinterestdl
+┃✮┃• gitclone
+┃✮┃• gdrive
+┃✮┃• insta
+┃✮┃• ytmp3
+┃✮┃• ytmp4
+┃✮┃• play
+┃✮┃• song
+┃✮┃• video
+┃✮┃• ytmp3doc
+┃✮┃• ytmp4doc
+┃✮┃• tiktok
+┃✮└───────────┈⊷
 ╰──────────────┈⊷`;
           break;
           
@@ -180,15 +180,15 @@ const menu = async (m, Matrix) => {
           menuTitle = "Converter Menu";
           menuResponse = `
 ╭━━〔 *Converter Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• attp
-┃◈┃• attp2
-┃◈┃• attp3
-┃◈┃• ebinary
-┃◈┃• dbinary
-┃◈┃• emojimix
-┃◈┃• mp3
-┃◈└───────────┈⊷
+┃✮╭─────────────·๏
+┃✮┃• attp
+┃✮┃• attp2
+┃✮┃• attp3
+┃✮┃• ebinary
+┃✮┃• dbinary
+┃✮┃• emojimix
+┃✮┃• mp3
+┃✮└───────────┈⊷
 ╰──────────────┈⊷`;
           break;
           
@@ -196,15 +196,15 @@ const menu = async (m, Matrix) => {
           menuTitle = "AI Menu";
           menuResponse = `
 ╭━━〔 *AI Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• ai
-┃◈┃• bug
-┃◈┃• report
-┃◈┃• gpt
-┃◈┃• dalle
-┃◈┃• remini
-┃◈┃• gemini
-┃◈└───────────┈⊷
+┃✮╭─────────────·๏
+┃✮┃• ai
+┃✮┃• bug
+┃✮┃• report
+┃✮┃• gpt
+┃✮┃• dalle
+┃✮┃• remini
+┃✮┃• gemini
+┃✮└───────────┈⊷
 ╰──────────────┈⊷`;
           break;
           
@@ -212,13 +212,13 @@ const menu = async (m, Matrix) => {
           menuTitle = "Tools Menu";
           menuResponse = `
 ╭━━〔 *Tools Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• calculator
-┃◈┃• tempmail
-┃◈┃• checkmail
-┃◈┃• trt
-┃◈┃• tts
-┃◈└───────────┈⊷
+┃✮╭─────────────·๏
+┃✮┃• calculator
+┃✮┃• tempmail
+┃✮┃• checkmail
+┃✮┃• trt
+┃✮┃• tts
+┃✮└───────────┈⊷
 ╰──────────────┈⊷`;
           break;
           
@@ -226,27 +226,27 @@ const menu = async (m, Matrix) => {
           menuTitle = "Group Menu";
           menuResponse = `
 ╭━━〔 *Group Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• linkgc
-┃◈┃• setppgc
-┃◈┃• setname
-┃◈┃• setdesc
-┃◈┃• group
-┃◈┃• gcsetting
-┃◈┃• welcome
-┃◈┃• add
-┃◈┃• kick
-┃◈┃• kickall
-┃◈┃• promote
-┃◈┃• promoteall
-┃◈┃• demote
-┃◈┃• demoteall
-┃◈┃• hidetag
-┃◈┃• tagall
-┃◈┃• antilink
-┃◈┃• antitoxic
-┃◈┃• getbio
-┃◈└───────────┈⊷
+┃✮╭─────────────·๏
+┃✮┃• linkgc
+┃✮┃• setppgc
+┃✮┃• setname
+┃✮┃• setdesc
+┃✮┃• group
+┃✮┃• gcsetting
+┃✮┃• welcome
+┃✮┃• add
+┃✮┃• kick
+┃✮┃• kickall
+┃✮┃• promote
+┃✮┃• promoteall
+┃✮┃• demote
+┃✮┃• demoteall
+┃✮┃• hidetag
+┃✮┃• tagall
+┃✮┃• antilink
+┃✮┃• antitoxic
+┃✮┃• getbio
+┃✮└───────────┈⊷
 ╰──────────────┈⊷`;
           break;
           
@@ -254,19 +254,19 @@ const menu = async (m, Matrix) => {
           menuTitle = "Search Menu";
           menuResponse = `
 ╭━━〔 *Search Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• play
-┃◈┃• yts
-┃◈┃• imdb
-┃◈┃• google
-┃◈┃• gimage
-┃◈┃• pinterest
-┃◈┃• wallpaper
-┃◈┃• wikimedia
-┃◈┃• ytsearch
-┃◈┃• ringtone
-┃◈┃• lyrics
-┃◈└───────────┈⊷
+┃✮╭─────────────·๏
+┃✮┃• play
+┃✮┃• yts
+┃✮┃• imdb
+┃✮┃• google
+┃✮┃• gimage
+┃✮┃• pinterest
+┃✮┃• wallpaper
+┃✮┃• wikimedia
+┃✮┃• ytsearch
+┃✮┃• ringtone
+┃✮┃• lyrics
+┃✮└───────────┈⊷
 ╰──────────────┈⊷`;
           break;
           
@@ -274,13 +274,13 @@ const menu = async (m, Matrix) => {
           menuTitle = "Main Menu";
           menuResponse = `
 ╭━━〔 *Main Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• ping
-┃◈┃• alive
-┃◈┃• owner
-┃◈┃• menu
-┃◈┃• infobot
-┃◈└───────────┈⊷
+┃✮╭─────────────·๏
+┃✮┃• ping
+┃✮┃• alive
+┃✮┃• owner
+┃✮┃• menu
+┃✮┃• infobot
+┃✮└───────────┈⊷
 ╰──────────────┈⊷`;
           break;
           
@@ -288,20 +288,20 @@ const menu = async (m, Matrix) => {
           menuTitle = "Owner Menu";
           menuResponse = `
 ╭━━〔 *Owner Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• join
-┃◈┃• leave
-┃◈┃• block
-┃◈┃• unblock
-┃◈┃• setppbot
-┃◈┃• anticall
-┃◈┃• setstatus
-┃◈┃• setnamebot
-┃◈┃• autotyping
-┃◈┃• alwaysonline
-┃◈┃• autoread
-┃◈┃• autosview
-┃◈└───────────┈⊷
+┃✮╭─────────────·๏
+┃✮┃• join
+┃✮┃• leave
+┃✮┃• block
+┃✮┃• unblock
+┃✮┃• setppbot
+┃✮┃• anticall
+┃✮┃• setstatus
+┃✮┃• setnamebot
+┃✮┃• autotyping
+┃✮┃• alwaysonline
+┃✮┃• autoread
+┃✮┃• autosview
+┃✮└───────────┈⊷
 ╰──────────────┈⊷`;
           break;
           
@@ -309,11 +309,11 @@ const menu = async (m, Matrix) => {
           menuTitle = "Stalk Menu";
           menuResponse = `
 ╭━━〔 *Stalk Menu* 〕━━┈⊷
-┃◈╭─────────────·๏
-┃◈┃• truecaller
-┃◈┃• instastalk
-┃◈┃• githubstalk
-┃◈└───────────┈⊷
+┃✮╭─────────────·๏
+┃✮┃• truecaller
+┃✮┃• instastalk
+┃✮┃• githubstalk
+┃✮└───────────┈⊷
 ╰──────────────┈⊷`;
           break;
           
@@ -325,12 +325,12 @@ const menu = async (m, Matrix) => {
       // Format the full response with title and description
       const fullResponse = `
 ╭━━━〔 *${config.BOT_NAME} - ${menuTitle}* 〕━━━┈⊷
-┃★╭──────────────
-┃★│• Owner : *${config.OWNER_NAME}*
-┃★│• User : *${m.pushName}*
-┃★│• Prefix : [${prefix}]
-┃★│• Version : *3.1.0*
-┃★╰──────────────
+┃✪╭──────────────
+┃✪│• Owner : *${config.OWNER_NAME}*
+┃✪│• User : *${m.pushName}*
+┃✪│• Prefix : [${prefix}]
+┃✪│• Version : *3.1.0*
+┃✪╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 
 ${menuResponse}
