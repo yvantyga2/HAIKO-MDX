@@ -59,7 +59,7 @@ ${translatedTafsirEnglish.text}`;
     await conn.sendMessage(
       from,
       {
-        image: { url: `https://files.catbox.moe/umpjhb.jpg` },
+        image: { url: `https://files.catbox.moe/pcb7ya.jpg` },
         caption: quranSurah,
         contextInfo: {
           mentionedJid: [m.sender], 
@@ -67,7 +67,7 @@ ${translatedTafsirEnglish.text}`;
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363302677217436@newsletter', 
-            newsletterName: 'PROFESSEUR-XD QURAN', 
+            newsletterName: 'HAIKO-MDX QURAN', 
             serverMessageId: 143
           }
         }
@@ -449,7 +449,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/230q0c.jpg` },
+                image: { url: `https://files.catbox.moe/pcb7ya.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -457,7 +457,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363302677217436@newsletter',
-                        newsletterName: 'PROFESSEUR-XD QURAN',
+                        newsletterName: 'HAIKO-MDX QURAN',
                         serverMessageId: 143
                     }
                 }
