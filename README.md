@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/PROFESSEUR-XD/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/HAIKO-MDX/count.svg" alt="Visitor Count" />
 </p>
 
 ---
@@ -44,13 +44,13 @@
  
 - Auto QR to DM
  
-- Session ID Generator (PROFESSEUR-SESSION-ID)
+- Session ID Generator (HAIKO-SESSION-ID)
  
 - Multi Deploy Options (Render, Heroku, Koyeb, etc.)
 
 ---
 
-Deploy Easily PROFESSEUR-XD 
+Deploy Easily HAIKO-MDX 
 
 ### Get Pairing Code ( SESSION ID )
 
