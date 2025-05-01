@@ -13,7 +13,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
     try {
         // Liste des options NSFW
         const nsfwList = `
-   *❦ \`INCONNU-XD SEXY HUB.🎀🍭\`*
+   *❦ \`HAIKO-MDX SEXY HUB.🎀🍭\`*
 
 1️⃣ *EJACULATION💦*
 2️⃣ *PENIS🍆*
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
 *By Continueing You Agree that you are 18+ .*`;
 
         // URL image for NSFW
-        const imageUrl = 'https://files.catbox.moe/umpjhb.jpg';
+        const imageUrl = 'https://files.catbox.moe/pcb7ya.jpg';
 
         // Envoi de la liste avec l'image et la légende
         await conn.sendMessage(from, {
@@ -68,7 +68,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image avec le caption
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: `Here your ${command} image 🔞🍆🍑.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSEUR-XD😋🍑🔞.`,
+                caption: `Here your ${command} image 🔞🍆🍑.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ HAIKO-MDX 😋🍑🔞.`,
             }, { quoted: mek });
         } else {
             await reply('❌ No image found for this category.');
@@ -100,7 +100,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image avec le caption
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: `Here your ${command} image 🔞🍆🍑.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSEUR-XD😋🍑🔞.`,
+                caption: `Here your ${command} image 🔞🍆🍑.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ HAIKO-MDX 😋🍑🔞.`,
             }, { quoted: mek });
         } else {
             await reply('❌ No image found for this category.');
@@ -132,7 +132,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image avec le caption
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: `Here your ${command} image 🔞🍆🍑.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSEUR-XD😋🍑🔞.`,
+                caption: `Here your ${command} image 🔞🍆🍑.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ HAIKO-MDX 😋🍑🔞.`,
             }, { quoted: mek });
         } else {
             await reply('❌ No image found for this category.');
@@ -166,7 +166,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image dans le chat
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: 'Here is your nude NSFW image 🔞🔥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSEUR-XD😋🔥🔞.'
+                caption: 'Here is your nude NSFW image 🔞🔥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ HAIKO-MDX 😋🔥🔞.'
             }, { quoted: mek });
         } else {
             reply('❌ Unable to fetch image. Please try again later.');
@@ -200,7 +200,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image dans le chat
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: 'Here is your sex NSFW image 🔞🔥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSEUR-XD😋🔥🔞.'
+                caption: 'Here is your sex NSFW image 🔞🔥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ HAIKO-MDX 😋🔥🔞.'
             }, { quoted: mek });
         } else {
             reply('❌ Unable to fetch image. Please try again later.');
@@ -234,7 +234,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image dans le chat
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: 'Here is your cute NSFW image 🔞💖.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSEUR-XD😋💖🔞.'
+                caption: 'Here is your cute NSFW image 🔞💖.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ HAIKO-MDX 😋💖🔞.'
             }, { quoted: mek });
         } else {
             reply('❌ Unable to fetch image. Please try again later.');
@@ -268,7 +268,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image dans le chat
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: 'Here is your orgasm NSFW image 🔞💥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSEUR-XD😋💥🔞.'
+                caption: 'Here is your orgasm NSFW image 🔞💥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ HAIKO-MDX 😋💥🔞.'
             }, { quoted: mek });
         } else {
             reply('❌ Unable to fetch image. Please try again later.');
@@ -302,7 +302,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image dans le chat
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: 'Here is your anal NSFW image 🔞🔥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Nᴀsᴛʏ PROFESSEUR-XD😋🔥🔞.'
+                caption: 'Here is your anal NSFW image 🔞🔥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Nᴀsᴛʏ HAIKO-MDX 😋🔥🔞.'
             }, { quoted: mek });
         } else {
             reply('❌ Unable to fetch image. Please try again later.');
@@ -336,7 +336,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image dans le chat
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: 'Here is your suspension NSFW image 🔞🔥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSEUR-XD😋🔥🔞.'
+                caption: 'Here is your suspension NSFW image 🔞🔥.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ HAIKO-MDX 😋🔥🔞.'
             }, { quoted: mek });
         } else {
             reply('❌ Unable to fetch image. Please try again later.');
@@ -370,7 +370,7 @@ async (conn, mek, m, { from, l, quoted, body, isCmd, command, args, q, isGroup, 
             // Envoi de l'image dans le chat
             await conn.sendMessage(from, {
                 image: { url: imageUrl },
-                caption: 'Here is your kiss NSFW image 🔞💋.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ PROFESSEUR-XD😋💋🔞.'
+                caption: 'Here is your kiss NSFW image 🔞💋.\n> © Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ HAIKO-MDX 😋💋🔞.'
             }, { quoted: mek });
         } else {
             reply('❌ Unable to fetch image. Please try again later.');
