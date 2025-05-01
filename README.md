@@ -61,7 +61,7 @@ Deploy Easily HAIKO-MDX
  Fork This Repository
 
  <p align="center">
-  <a href="https://github.com/Professeur-xd/PROFESSEUR--XD">
+  <a href="https://github.com/Professeur-xd/HAIKO-MDX">
     <img src="https://img.shields.io/badge/Fork%20This-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -74,7 +74,7 @@ Deploy Easily HAIKO-MDX
   <a href="https://replit.com/Professeur-xd">
     <img src="https://img.shields.io/badge/Deploy%20To%20Replit-FFA500?style=for-the-badge&logo=replit&logoColor=white" />
   </a>
-  <a href="https://railway.app/new/template?template=https://github.com/Professeur-xd/PROFESSEUR--XD">
+  <a href="https://railway.app/new/template?template=https://github.com/Professeur-xd/HAIKO-MDX">
     <img src="https://img.shields.io/badge/Deploy%20To%20Railway-8B5CF6?style=for-the-badge&logo=railway&logoColor=white" />
   </a>
   <a href="https://render.com/">
@@ -83,13 +83,13 @@ Deploy Easily HAIKO-MDX
 </p>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Professeur-xd/PROFESSEUR--XD/tree/main">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Professeur-xd/HAIKO-MDX/tree/main">
     <img src="https://img.shields.io/badge/Deploy-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
   <a href="https://host.talkdrove.com/share-bot/82">
     <img src="https://img.shields.io/badge/Deploy-TaikDrove-6971FF?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
-  <a href="https://app.koyeb.com/services/deploy?type=git&repository=professeur-xd/PROFESSEUR-XD&ports=3000">
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=professeur-xd/HAIKO-MDX&ports=3000">
     <img src="https://img.shields.io/badge/Deploy-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" />
   </a>
 </p>
@@ -99,7 +99,7 @@ Deploy Easily HAIKO-MDX
  DOWNLOAD FILE HAIKO-MDX
 
 <p align="center">
-  <a href="https://github.com/Professeur-xd/PROFESSEUR--XD/archive/refs/heads/main.zip">
+  <a href="https://github.com/Professeur-xd/HAIKO-MDX/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20Bot-file-FF009D?style=for-the-badge&logo=github&logoColor=white" alt="Download Bot File" />
   </a>
 </p>
