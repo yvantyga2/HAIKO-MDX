@@ -1,16 +1,16 @@
 {
-  "name": "PROFESSEUR-XD",
+  "name": "HAIKO-MDX",
   "version": "10.8.1",
-  "description": "PROFESSEUR TECH",
+  "description": "MYSTIC HAIKO",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name  PROFESSEUR-XD",
-    "stop": "pm2 stop  PROFESSEUR-XD",
-    "restart": "pm2 restart  PROFESSEUR-XD"
+    "stop": "pm2 stop  HAIKO-MDX",
+    "restart": "pm2 restart  HAIKO-MDX"
   },
-  "keywords": ["PROFESSEUR-TECH", "whatsapp-bot", "whatsapp md bot"],
-  "author": " PROFESSEUR TT22.O",
+  "keywords": ["MYSTIC-HAIKO", "whatsapp-bot", "whatsapp md bot"],
+  "author": " MYSTIC HAIKO",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
