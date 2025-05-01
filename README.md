@@ -1,25 +1,25 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=200&lines=PROFESSEUR-XD;BY+PROFESSEUR+HACK" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=200&lines=HAIKO-MDX;BY+MYSTIC+HAIKO" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-<h1 align="center">THE NEXT GEN WHATSAPP BOT BY PROFESSEUR HACK
+<h1 align="center">THE NEXT GEN WHATSAPP BOT BY MYSTIC HAIKO 
 
 ---
 
 <p align="center">
-  <img src="https://files.catbox.moe/umpjhb.jpg" width="700"/>
+  <img src="https://files.catbox.moe/pcb7ya.jpg" width="700"/>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://github.com/Professeur-xd">
-    <img title="Author" src="https://img.shields.io/badge/Author-PROFESSEUR%20HACK-ff004d?style=for-the-badge&logo=github&logoColor=white" />
+    <img title="Author" src="https://img.shields.io/badge/Author-MYSTIC%20HAIKO-ff004d?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://whatsapp.com/channel/0029VbADTgbGzzKPWZ5MC52T">
     <img title="Join WhatsApp Channel" src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -55,7 +55,7 @@ Deploy Easily PROFESSEUR-XD
 ### Get Pairing Code ( SESSION ID )
 
 
-[![PROFESSEUR XD SESSION](https://img.shields.io/badge/PROFESSEUR%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-xd-session-by-inconnu-boy-a1kg.onrender.com/)
+[![HAIKO MDX SESSION](https://img.shields.io/badge/HAIKO%20-MDX%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-xd-session-by-inconnu-boy-a1kg.onrender.com/)
 ---
 
  Fork This Repository
@@ -68,7 +68,7 @@ Deploy Easily PROFESSEUR-XD
 
 ---
 
- DEPLOY PROFESSEUR-XD
+ DEPLOY HAIKO-MDX
 
 <p align="center">
   <a href="https://replit.com/Professeur-xd">
@@ -96,7 +96,7 @@ Deploy Easily PROFESSEUR-XD
 
 ---
 
- DOWNLOAD FILE PROFESSEUR-XD
+ DOWNLOAD FILE HAIKO-MDX
 
 <p align="center">
   <a href="https://github.com/Professeur-xd/PROFESSEUR--XD/archive/refs/heads/main.zip">
@@ -113,16 +113,16 @@ Deploy Easily PROFESSEUR-XD
 ¨ CONFIGURATION (Modify `.env` File)
 
 ```
-SESSION_ID="PROFESSEUR~XD~"
+SESSION_ID="HAIKO~MDX~"
 AUTO_READ_STATUS=true
-STATUS_READ_MSG="*Status Seen By PROFESSEUR-XD âš¡*"
+STATUS_READ_MSG="*Status Seen By HAIKO-MDX âš¡*"
 AUTO_STATUS_REPLY=false
 AUTO_REJECT_CALLS=false
 MODE="public"
 WELCOME=false
 AUTO_READ_MESSAGES=false
 AUTO_TYPING=false
-OWNER_NAME="PROFESSEUR XD"
+OWNER_NAME="HAIKO MDX"
 OWNER_NUMBER="522219610140"
 AUTO_RECORDING=false
 ALWAYS_ONLINE=false
@@ -155,7 +155,7 @@ PREFIX="."
 
 <p align="center">
   <a href="https://github.com/Professeur-xd">
-    <img alt="Â© POWERED BY PROFESSEUR HACK" src="https://img.shields.io/badge/Â©%20POWERED%20BY-PROFESSEUR%20HACK-ff0000?style=for-the-badge&logo=github" />
+    <img alt="Â© POWERED BY MYSTIC HAIKO" src="https://img.shields.io/badge/Â©%20POWERED%20BY-MYSTIC%20HAIKO-ff0000?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -173,11 +173,11 @@ The developer is not responsible for any misuse or bans.
  Credits & Contributors
 
 > <a href="https://github.com/Professeur-xd">
-  <img alt="PROFESSEUR HACH - OWNER" src="https://img.shields.io/badge/OWNER-âš¡PROFESSEUR%20HACKâš¡-FF0000?style=for-the-badge&logo=github" />
+  <img alt="MYSTIC HAIKO- OWNER" src="https://img.shields.io/badge/OWNER-âš¡MYSTIC%20HAIKOâš¡-FF0000?style=for-the-badge&logo=github" />
 </a>  
 
 > <a href="https://github.com/Professeur-xd">
-  <img alt="PROFESSEUR HACH - HELPER" src="https://img.shields.io/badge/HELPER-âš¡PROFESSEUR%20HACKâš¡-00FFC6?style=for-the-badge&logo=github" />
+  <img alt="MYSTIC HAIKO- HELPER" src="https://img.shields.io/badge/HELPER-âš¡MYSTIC%20HAIKOâš¡-00FFC6?style=for-the-badge&logo=github" />
 </a>
 
 <p><b>For helping in bot plugin files.</b></p>
@@ -188,8 +188,8 @@ The developer is not responsible for any misuse or bans.
 
 ---
 
-<a href="https://wa.me/522219610140?text=âš¡%20HELLO%20PROFESSEUR%20HACK%20TECH%20âš¡">
-  <img alt="Contact WhatsApp" src="https://img.shields.io/badge/DEV-âš¡PROFESSEUR%20HACK%20TECHâš¡-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/522219610140?text=âš¡%20HELLO%20MYSTIC%20HAIKO%20TECH%20âš¡">
+  <img alt="Contact WhatsApp" src="https://img.shields.io/badge/DEV-âš¡MYSTIC%20HAIKO%20TECHâš¡-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ---
@@ -202,5 +202,5 @@ Happy coding!
 ---
 
 <p align="center">
-  <img alt="Made By PROFESSEUR HACK" src="https://img.shields.io/badge/Made%20by-PROFESSEUR%20HACK-black?style=for-the-badge&logo=github" />
+  <img alt="Made By MYSTIC HAIKO" src="https://img.shields.io/badge/Made%20by-MYSTIC%20HAIKO-black?style=for-the-badge&logo=github" />
 </p>
