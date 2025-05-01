@@ -7,7 +7,7 @@ const couplepp = async (m, Matrix) => {
 
   if (!['couplepp', 'couple', 'cpp', 'pp'].includes(cmd)) return;
 
-  await m.React('💑');
+  await m.React('🎗️');
   await Matrix.sendMessage(m.from, { text: "*💑 Fetching couple profile pictures...*" }, { quoted: m });
 
   try {
@@ -26,7 +26,7 @@ const couplepp = async (m, Matrix) => {
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
         newsletterJid: '120363354023106228@newsletter',
-        newsletterName: "JawadTechX",
+        newsletterName: "MYSTIC HAIKO",
         serverMessageId: 143
       }
     };
@@ -34,7 +34,7 @@ const couplepp = async (m, Matrix) => {
     if (malePp) {
       await Matrix.sendMessage(m.from, {
         image: { url: malePp },
-        caption: "👨 Male Couple Profile Picture",
+        caption: "🍁 Male Couple Profile Picture",
         contextInfo
       }, { quoted: m });
     }
@@ -42,7 +42,7 @@ const couplepp = async (m, Matrix) => {
     if (femalePp) {
       await Matrix.sendMessage(m.from, {
         image: { url: femalePp },
-        caption: "👩 Female Couple Profile Picture",
+        caption: "🌹 Female Couple Profile Picture",
         contextInfo
       }, { quoted: m });
     }
