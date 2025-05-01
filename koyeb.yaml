@@ -1,6 +1,6 @@
-name: PROFESSEUR-XD
+name: HAIKO-MDX 
 services:
-  - name: PROFESSEUR-XD
+  - name: HAIKO-MDX 
     type: web
     ports:
       - 5000
