@@ -62,7 +62,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
       formattedResult += `╰══•∞•═══════════════╯ `;
 
       await m.reply(formattedResult);
-      await m.React("✅");
+      await m.React("🎗️");
     } catch (error) {
       console.error(error);
       await m.React("❌");
