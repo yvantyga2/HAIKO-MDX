@@ -222,7 +222,7 @@ const menu = async (m, Matrix) => {
         menuImage = Buffer.from(response.data, 'binary');
       } catch (error) {
         console.error('Error fetching menu image from URL, falling back to local image:', error);
-        menuImage = fs.readFileSync('https://files.catbox.moe/umpjhb.jpg');
+        menuImage = fs.readFileSync('https://files.catbox.moe/pcb7ya.jpg');
       }
     } else {
       // Use local image if MENU_IMAGE is not configured
@@ -238,7 +238,7 @@ const menu = async (m, Matrix) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363397722863547@newsletter',
-          newsletterName: "PROFESSEUR-HACK",
+          newsletterName: "MYSTIC HAIKO",
           serverMessageId: 143
         }
       }
