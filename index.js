@@ -114,25 +114,25 @@ async function start() {
                 }
             } else if (connection === 'open') {
                 if (initialConnection) {
-                    console.log(chalk.green("Connected Successfully PROFESSEUR XD 🤍"));
+                    console.log(chalk.green("Connected Successfully HAIKO-MDX 🍁"));
                     Matrix.sendMessage(Matrix.user.id, { 
-                        image: { url: "https://files.catbox.moe/umpjhb.jpg" }, 
+                        image: { url: "https://files.catbox.moe/pcb7ya.jpg" }, 
                         caption: `╓─────────────────╖
-│WELCOME TO PROFESSEUR-XD
+│WELCOME TO HAIKO-MDX
 ╙─────────────────╜
-*🐳 Hello there User! 👋🏻*
+*🎗️ Hello there User! 👋🏻*
 
 ════════════════════
-🐳 CHANNEL : https://whatsapp.com/channel/0029VbADTgbGzzKPWZ5MC52T
+🎗️ CHANNEL : https://whatsapp.com/channel/0029VbADTgbGzzKPWZ5MC52T
 
 ═══════════════════
-*🐳 Your Prefix:* = *${prefix}*
+*🎗️ Your Prefix:* = *${prefix}*
 ═══════════════════
 
-🐳 REPO : https://github.com/Professeur-xd/PROFESSEUR--XD
+🎗️ REPO : https://github.com/Professeur-xd/HAIKO-MDX
 
 ╚══════════════════╝
-       © PROFESSEUR HACK`
+       © MYSTIC HAIKO`
                     });
                     initialConnection = false;
                 } else {
@@ -180,7 +180,7 @@ async function start() {
                     await Matrix.readMessages([mek.key]);
                     
                     if (config.AUTO_STATUS_REPLY) {
-                        const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By PROFESSEUR-XD';
+                        const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By HAIKO-MDX';
                         await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
                     }
                 }
