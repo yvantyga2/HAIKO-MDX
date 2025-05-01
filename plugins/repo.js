@@ -48,7 +48,7 @@ const repo = async (m, gss) => {
       await gss.sendMessage(
         m.from,
         {
-          audio: { url: "https://files.catbox.moe/rvfjap.mp3" },
+          audio: { url: "https://files.catbox.moe/zvajiw.mp3" },
           mimetype: "audio/mp4",
           ptt: true,
           contextInfo: {
