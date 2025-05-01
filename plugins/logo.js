@@ -7,7 +7,7 @@ const createLogo = async (bot, from, message, styleUrl, name) => {
     let apiResponse = await fetchJson(`https://api-pink-venom.vercel.app/api/logo?url=${styleUrl}&name=${name}`);
     await bot.sendMessage(from, {
       'image': { 'url': apiResponse.result.download_url },
-      'caption': "> *©🐳 PROFESSEUR-XD 🐳*"
+      'caption': "> *©🎗️ HAIKO-MDX 🎗️*"
     }, { quoted: message });
   } catch (error) {
     console.error(error);
