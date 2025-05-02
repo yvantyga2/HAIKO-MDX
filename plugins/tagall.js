@@ -23,12 +23,12 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
     if (!botAdmin) return m.reply("*📛 BOT MUST BE AN ADMIN TO USE THIS COMMAND*");
     if (!senderAdmin) return m.reply("*📛 YOU MUST BE AN ADMIN TO USE THIS COMMAND*");
     // Extract the message to be sent
-    let message = `乂 *Attention Everyone* 乂\n\n*Message:* ${m.body.slice(prefix.length + cmd.length).trim() || 'no message'}\n\n`;
+    let message = `╔═━◈『 *Attention Everyone* 』◈━═╗\n\n*Message:* ${m.body.slice(prefix.length + cmd.length).trim() || 'no message'}\n\n`;
         
 
 
     for (let participant of participants) {
-      message += `❒ @${participant.id.split('@')[0]}\n`;
+      message += `📑 @${participant.id.split('@')[0]}\n`;
     }
 
     await gss.sendMessage(m.from, { text: message, mentions: participants.map(a => a.id) }, { quoted: m });
