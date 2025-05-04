@@ -55,7 +55,7 @@ Deploy Easily HAIKO-MDX
 ### Get Pairing Code ( SESSION ID )
 
 
-[![HAIKO MDX SESSION](https://img.shields.io/badge/HAIKO%20-MDX%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https:https://github.com/Professeur-xd/HAIKO-MDX)
+[![HAIKO MDX SESSION](https://img.shields.io/badge/HAIKO%20-MDX%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://haiko-mdx-session.onrender.com)
 ---
 
  Fork This Repository
